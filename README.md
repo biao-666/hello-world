@@ -1,2 +1,2 @@
-# hello0world
+# hello-world
 创建一个新的储存库
